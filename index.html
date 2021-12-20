@@ -1,11 +1,18 @@
-<html>
-<head>
+---
+layout: default
+image: '/images/01.jpg'
+---
 
-</head>
+{% include hero.html %}
 
-<body>
+<div class="container">
+  <div class="row animate">
+    {% if site.posts.size > 0 %}
+      {% for post in paginator.posts %}
+        {% include article.html %}
+      {% endfor %}
+    {% endif %}
+  </div>
+</div>
 
-hi
-
-</body>
-</html>
+{% include pagination.html %}
