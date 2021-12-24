@@ -11,16 +11,16 @@ tags:
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/artwork-giraffe.jpg">
+    <img src="/images/artwork-giraffehat.jpg">
     <img src="/images/artwork-tiger.jpg">
-    <img src="/images/artwork-girl.jpg">
+    <img src="/images/artwork-thought.jpg">
     <img src="/images/artwork-brain.jpg">
-    <img src="/images/artwork-flowers.jpg">
-    <img src="/images/artwork-start-again.jpg">
-    <img src="/images/artwork-owl.jpg">
-    <img src="/images/artwork-elephant.jpg">
-    <img src="/images/artwork-foxy.jpg">
-    <img src="/images/artwork-heart.jpg">
+    <img src="/images/artwork-flowerjar.jpg">
+    <img src="/images/artwork-startagain.jpg">
+    <img src="/images/artwork-owlnope.jpg">
+    <img src="/images/artwork-elephantsmile.jpg">
+    <img src="/images/artwork-fox.jpg">
+    <img src="/images/artwork-hearts.jpg">
     <img src="/images/artwork-pigs.jpg">
     <img src="/images/artwork-welcome.jpg">
   </div>

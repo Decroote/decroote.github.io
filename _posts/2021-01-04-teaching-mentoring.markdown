@@ -16,8 +16,8 @@ I have always believed that educators have the uncanny ability to shape the live
     <img src="/images/teaching-interviews.jpg">
     <img src="/images/teaching-pitches.jpg">
     <img src="/images/teaching-posters.jpg">
-    <img src="/images/ps171-classroom-front.jpg">
-    <img src="/images/ps171-computerlab.jpg">
+    <img src="/images/ps171-classroom.jpg">
+    <img src="/images/ps171-compulab.jpg">
     <img src="/images/ps171-virtual.jpg">
   </div>
 </div>
@@ -30,7 +30,7 @@ I am a Big Sister with Big Brothers Big Sisters of America and have mentored two
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/bbbs-potential.jpg">
+    <img src="/images/bbbs-ignite.jpg">
     <img src="/images/bbbs-paintnight.jpg">
     <img src="/images/bbbs-graduation.jpg">
   </div>

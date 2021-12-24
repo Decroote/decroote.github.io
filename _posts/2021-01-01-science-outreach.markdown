@@ -18,7 +18,7 @@ During Brain Awareness week, we put together a Brain Fair where more than 600 st
 <div class="gallery-box">
   <div class="gallery">
     <img src="/images/baw-booths.jpg">
-    <img src="/images/baw-illusions.jpg">
+    <img src="/images/baw-optical.jpg">
     <img src="/images/baw-brainhats.jpg">
   </div>
 </div>
@@ -29,9 +29,9 @@ MiNDS partners with the Center for Excellence in Youth Education to teach a 7-pa
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/ps171-hippos2.jpg">
-    <img src="/images/ps171-dizzybat.jpg">
-    <img src="/images/ps171-eggdrop.jpg">
+    <img src="/images/ps171-hippodemo.jpg">
+    <img src="/images/ps171-dizzybatdemo.jpg">
+    <img src="/images/ps171-eggdropdemo.jpg">
   </div>
 </div>
 
@@ -41,9 +41,9 @@ MiNDS hosts an annual public lecture where we invite the community to examine a 
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/public-seminar-panel.jpg">
+    <img src="/images/public-seminar-panelists.jpg">
     <img src="/images/public-seminar-crowd.jpg">
-    <img src="/images/public-seminar-poster.jpg">
+    <img src="/images/public-seminar-group.jpg">
   </div>
 </div>
 
@@ -53,7 +53,7 @@ We believe that one of the best ways to learn about the brain is by taking a loo
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/brain-dissection-lab.jpg">
+    <img src="/images/brain-dissection-inlab.jpg">
     <img src="/images/brain-dissection-comparative.jpg">
     <img src="/images/brain-dissection-circle.jpg">
   </div>
@@ -66,10 +66,10 @@ MiNDS has participated in several city-wide programs, including the Intrepid's G
 <div class="gallery-box">
   <div class="gallery">
     <img src="/images/minds-5k.jpg">
-    <img src="/images/minds-augmentedreality.jpg">
-    <img src="/images/minds-intrepid.jpg">
+    <img src="/images/minds-augmented.jpg">
+    <img src="/images/minds-intrepidplane.jpg">
     <img src="/images/minds-storytelling.jpg">
-    <img src="/images/minds-unionsquare.jpg">
+    <img src="/images/minds-uniongroup.jpg">
     <img src="/images/minds-art-of-the-brain.jpg">
   </div>
 </div>

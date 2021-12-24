@@ -3,7 +3,7 @@ layout: post
 title:  Academic Research
 description: 
 date:   2021-01-09 15:01:35 +0300
-image:  '/images/academic-white-coat.jpg'
+image:  '/images/academic-ceremony.jpg'
 tags:   
 ---
 
