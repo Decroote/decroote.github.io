@@ -1,0 +1,27 @@
+---
+layout: post
+title:  Artwork
+description: 
+date:   2021-01-08 18:05:55 +0300
+image:  '/images/artwork-dog.jpg'  
+tags:   
+---
+
+### I also love to paint.
+
+<div class="gallery-box">
+  <div class="gallery">
+    <img src="/images/artwork-giraffe.jpg">
+    <img src="/images/artwork-tiger.jpg">
+    <img src="/images/artwork-girl.jpg">
+    <img src="/images/artwork-brain.jpg">
+    <img src="/images/artwork-flowers.jpg">
+    <img src="/images/artwork-start-again.jpg">
+    <img src="/images/artwork-owl.jpg">
+    <img src="/images/artwork-elephant.jpg">
+    <img src="/images/artwork-foxy.jpg">
+    <img src="/images/artwork-heart.jpg">
+    <img src="/images/artwork-pigs.jpg">
+    <img src="/images/artwork-welcome.jpg">
+  </div>
+</div>
