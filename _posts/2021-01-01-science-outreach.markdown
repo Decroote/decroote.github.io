@@ -18,7 +18,7 @@ During Brain Awareness week, we put together a Brain Fair where more than 600 st
 <div class="gallery-box">
   <div class="gallery">
     <img src="/images/baw-booths.jpg">
-    <img src="/images/baw-2017-booth.jpg">
+    <img src="/images/baw-illusions.jpg">
     <img src="/images/baw-brainhats.jpg">
   </div>
 </div>
