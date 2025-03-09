@@ -11,6 +11,9 @@
               <img class="lazy" data-src="{{site.author.author__avatar}}" alt="{{site.author.author__name}}">
             </div>
             <h3 class="footer__author-name">{{site.author.author__name}}</h3>
+            {% if page.path contains "_posts" %}
+            <p class="footer__author-bio">{{site.author.author__short_bio}}</p>
+            {% else %}
             <p class="footer__author-bio">{{site.author.author__bio}}</p>
             {% if site.social %}
             <div class="social">
@@ -18,11 +21,13 @@
                 {% for social in site.social %}
                 <li class="social__item">
                   <a class="social__link" href="{{social.link}}" target="_blank" rel="noopener"
-                    aria-label="{{social.label}} link"><i class="ion {{social.icon}}"></i></a>
+                    aria-label="{{social.label}} link"><i class="ion {{social.icon}}"
+                      style="padding-right: 5px;"></i>{{social.label}}</a>
                 </li>
                 {% endfor %}
               </ul>
             </div>
+            {% endif %}
             {% endif %}
           </div>
         </div>

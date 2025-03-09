@@ -6,11 +6,11 @@
 
         <div class="logo">
           <a class="logo__link" href="{{ site.baseurl }}/">
-          {% if site.logo %}
+            {% if site.logo %}
             <img class="logo__image" src="{{ site.baseurl }}{{ site.logo }}" alt="{{ site.title }}">
-          {% else %}
+            {% else %}
             {{ site.title }}
-          {% endif %}
+            {% endif %}
           </a>
         </div>
 
@@ -24,14 +24,14 @@
               <li class="nav__item">
                 <a href="{{ site.baseurl }}/" class="nav__link">Home</a>
               </li>
-              {% for page in site.pages %}
-                {% unless page.name == 'tags.html' or page.name == '404.html' %}
-                  {% if page.title %}
-                  <li class="nav__item">
-                    <a href="{{ page.url | prepend: site.baseurl }}" class="nav__link">{{ page.title }}</a>
-                  </li>
-                  {% endif %}
-                {% endunless %}
+              {% for post in site.posts %}
+              {% unless page.name == 'tags.html' or page.name == '404.html' %}
+              {% if post.title %}
+              <li class="nav__item">
+                <a href="{{ post.url | prepend: site.baseurl }}" class="nav__link">{{ post.title }}</a>
+              </li>
+              {% endif %}
+              {% endunless %}
               {% endfor %}
               {% if site.color_scheme == "auto" %}
               <li class="nav__item nav__item-icon">

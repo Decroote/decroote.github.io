@@ -2,11 +2,9 @@
 layout: page
 title: About
 permalink: /about/
-image: '/images/public-seminar.jpg'
 ---
-I am an upstate New Yorker now residing in New York City. I completed my bachelor's degree at Brown University in 2016 and my Ph.D. in Neuroscience at the Icahn School of Medicine at Mount Sinai in 2021. My research interests lie within the emotion, memory, and cognitive fields and my doctoral dissertation focused on human time perception. Outside the lab, I am passionate about introducing neuroscience curriculum into New York City schools and creating opportunities for students to gain experience working in laboratories. I am also a huge fan of team sports, lake activities, painting, and reading. 
+I am an upstate New Yorker now residing in New York City. I completed my bachelor’s degree at Brown University in 2016, my Ph.D. at the Icahn School of Medicine at Mount Sinai in 2021, and am now an Assistant Professor at Mount Sinai. I currently teach a high school biomedical science enrichment course through the Center for Excellence in Youth Education and organize K-12 outreach efforts for the Friedman Brain Insitute. I am very passionate about introducing neuroscience curriculum into New York City schools and creating opportunities for students to gain experience working in laboratories.
 
 #### More information and ways to connect:
 
-* [Google Scholar](https://scholar.google.com/citations?hl=en&authuser=1&user=Jt2mzSUAAAAJ)
 * [Linkedin](https://www.linkedin.com/in/denise-croote)

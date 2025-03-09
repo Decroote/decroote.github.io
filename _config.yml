@@ -9,14 +9,23 @@ color_scheme: auto # You can choose three modes auto, light, and dark. By defaul
 
 
 #-------------------------------
+# Hero Settings
+hero:
+  hero__title: Denise Croote
+  hero__description: Neuroscientist excited about science education and outreach.
+  hero__image: '/images/denise-croote-headshot.JPG'
+
+
+#-------------------------------
 # Author Settings
 author:
   author__name: Denise Croote
-  author__bio: Neuroscientist excited about science outreach and communication.
-  author__avatar: '/images/main-headshot.jpg'
+  author__bio: I am an upstate New Yorker now residing in New York City. I completed my bachelor’s degree at Brown University in 2016, my Ph.D. at the Icahn School of Medicine at Mount Sinai in 2021, and am now an Assistant Professor at Mount Sinai. I currently teach a high school biomedical science enrichment course through the Center for Excellence in Youth Education and organize K-12 outreach efforts for the Friedman Brain Insitute. I am very passionate about introducing neuroscience curriculum into New York City schools and creating opportunities for students to gain experience working in laboratories. 
+  author__short_bio: Neuroscientist excited about science education and outreach.
+  author__avatar: '/images/denise-croote-headshot.JPG'
 
 social:
-# - {icon: "ion-logo-twitter", link: "https://twitter.com"}
+- {icon: "ion-logo-linkedin", link: "https://www.linkedin.com/in/denise-croote", label: "Connect on LinkedIn"}
 # - {icon: "ion-logo-facebook", link: "https://facebook.com"}
 # - {icon: "ion-logo-instagram", link: "https://instagram.com"}
 # - {icon: "ion-logo-pinterest", link: "https://pinterest.com"}
@@ -24,14 +33,6 @@ social:
 
 # Example of adding a new link to the footer - {icon: "ion-logo-dribbble", link: "https://dribbble.com"}
 # Other icons can be found at https://ionicons.com/v4/
-
-
-#-------------------------------
-# Hero Settings
-hero:
-  hero__title: Denise Croote
-  hero__description: Neuroscientist excited about science outreach and communication.
-  hero__image: '/images/main-headshot.jpg'
 
 
 #-------------------------------
@@ -109,6 +110,9 @@ defaults:
 
 include:
   - _pages
+
+exclude:
+  - archive
 
 sass:
   sass_dir: _sass
